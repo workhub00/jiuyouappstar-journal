@@ -1,2 +1,14 @@
 # jiuyouappstar-journal
-HTML page archive and documentation
+
+HTML 页面发布记录
+
+这里作为静态页面托管目录，记录每次发布后留下的页面文件。
+
+## 页面目录
+
+- 每个 HTML 文件代表一个页面
+- README 仅作为仓库说明
+
+## 维护方式
+
+发布程序会按配置写入文件，手动修改时请保留现有结构。
